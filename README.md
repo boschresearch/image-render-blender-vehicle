@@ -1,4 +1,4 @@
-# Image-Render Standard Blender Actions
+# Image-Render Blender AddOn for Vehicle Animation
 
 Implements the Blender addon `anyvehicle` to animate rigged vehicle models and offers functions for the `image-render` automation system.
 
