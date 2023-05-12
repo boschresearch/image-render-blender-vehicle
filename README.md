@@ -1,6 +1,10 @@
 # Image-Render Blender AddOn for Vehicle Animation
 
+**Check out the `stable` branch for the latest stable version**
+
 Implements the Blender addon `anyvehicle` to animate rigged vehicle models and offers functions for the `image-render` automation system.
+
+See the repository `image-render-setup` for more information and documentation on the `image-render` automation system.
 
 ## Purpose of the project
 
