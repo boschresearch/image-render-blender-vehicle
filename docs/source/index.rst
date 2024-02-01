@@ -29,6 +29,7 @@ Blender Vehicle Animation Add-On
    :caption: Contents:
 
    license
+   back-to-main
 
 
 .. Indices and tables
